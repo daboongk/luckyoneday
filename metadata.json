@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LuckyOneDay Game",
+  "description": "A casual puzzle game where you reveal your daily fortune. Based on your gender and date of birth, the game generates a unique fortune (meal, color, number, proverb) and a hidden puzzle image. Move your cursor to reveal the picture while avoiding obstacles to discover your luck for the day!",
+  "requestFramePermissions": []
+}
